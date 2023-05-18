@@ -1,14 +1,13 @@
-
 #Flight Search API
 
 
-	The Flight search api finds flights based on source, destination. Additionally, it sorts the flight details based on duration or price in the ascending/descending order depending on input.
+The Flight search api finds flights based on source, destination. Additionally, it sorts the flight details based on duration or price in the ascending/descending order depending on input.
 
 
 ##Project Description
 
 
-	This project finds the list of flights based on passing the query parameters to endpoint like flight/flights, this is available on port 8081.
+This project finds the list of flights based on passing the query parameters to endpoint like flight/flights, this is available on port 8081.
 
 Below are the request parameters:
 	* Origin: Required
@@ -59,10 +58,10 @@ For building and running the application you need:
 ##Test Case Implementation
 
 
-	This application has implemented unit test cases using JUNIT5, Mockito and Spring Test framework. 
-	To Cover the all the source in the Test Coverage, have implemented several test cases. So that the API will be bug-less for deployment.
+This application has implemented unit test cases using JUNIT5, Mockito and Spring Test framework. 
+To Cover the all the source in the Test Coverage, have implemented several test cases. So that the API will be bug-less for deployment.
 
-	This source code contains postman collection as well for quick testing of exposed services.
+This source code contains postman collection as well for quick testing of exposed services.
 
 ##License
 
